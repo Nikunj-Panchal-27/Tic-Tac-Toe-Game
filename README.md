@@ -74,7 +74,7 @@ https://github.com/Nikunj-Panchal-27/Tic-Tac-Toe-Game.git
 **Nikunj Panchal**
 Full Stack Developer
 
-* 🌐 Portfolio: *(Add your portfolio link here)*
+* 🌐 Portfolio: *https://nikunj-resume-portfolio.great-site.net/*
 * 💻 GitHub: *https://github.com/Nikunj-Panchal-27*
 
 ---
